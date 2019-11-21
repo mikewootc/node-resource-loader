@@ -1,0 +1,12 @@
+{
+  "name": "node-resource-loader",
+  "version": "0.1.0",
+  "author": "Mike Woo",
+  "description": "node loader module for enhanced-require",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
