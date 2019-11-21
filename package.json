@@ -1,6 +1,6 @@
 {
   "name": "node-resource-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Mike Woo",
   "description": "node loader module for enhanced-require",
   "licenses": [
